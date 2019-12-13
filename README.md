@@ -1,3 +1,13 @@
+# Moved
+
+This project has been [renamed and moved to another repository](https://github.com/lojikil/akvo).
+
+## rationale
+
+- I was originally going to rewrite it in Go and rename it
+- I decided that it may be ok to leave it in Python and just structure it
+- I wanted something to make your code _flow_ 
+
 # Overview
 
 A simple test case for an intermediate representation that can be used for symbolic execution & abstract interpretation. I'm focusing on a greybox-style of 
